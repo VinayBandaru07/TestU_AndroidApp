@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58071518302",
+    "project_id": "storage-access-22a6a",
+    "storage_bucket": "storage-access-22a6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58071518302:android:99eea204fbbc4f8c74f8cf",
+        "android_client_info": {
+          "package_name": "com.example.storage_access"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58071518302-5n99jm27p7pglkg5164sbqic36bclirg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVehRyhlFb4T2YCYv13UalesnccocJyOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58071518302-5n99jm27p7pglkg5164sbqic36bclirg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
